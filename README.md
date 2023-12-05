@@ -8,8 +8,8 @@
 ### Languages and tools I work with:
 
 <code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="90px"></code>
-<code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="90px"></code>
-<code><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-icon.svg" width="90px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="90px"></code>
+<code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="90px"></code>
 
 
 
