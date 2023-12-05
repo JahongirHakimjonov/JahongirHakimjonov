@@ -9,7 +9,7 @@
 
 <code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="90px"></code>
 <code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="90px"></code>
-<code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="90px"></code>
+<code><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-icon.svg" width="90px"></code>
 
 
 
