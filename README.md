@@ -10,7 +10,8 @@
 <code><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="30px"></code>
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px"></code>
-<code><img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="35px"></code>
+<code><img src="![image](https://github.com/JahongirHakimjonov/JahongirHakimjonov/assets/136330024/c9f113f0-0d72-4fe1-b555-cbc24149f3b7)
+" width="35px"></code>
 <code><img src="https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg" width="35px"></code>
 
 
