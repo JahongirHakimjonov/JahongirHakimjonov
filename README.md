@@ -7,7 +7,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="80px"></code>
+<code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png"></code>
 <!--<code><img src="https://www.pngwing.com/en/free-png-azceh" width="110px"></code>-->
 <code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="80px"></code>
 
