@@ -4,6 +4,10 @@
 
 Here are some ideas to get you started:
 
+### Languages and tools I work with:
+
+<code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="30px"></code>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
