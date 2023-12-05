@@ -7,7 +7,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="150px"></code>
+<code><img src="https://www.python.org/static/img/psf-logo@2x.png" width="150px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="30px"></code>
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px"></code>
 
