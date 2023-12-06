@@ -6,7 +6,7 @@
 
 ### Languages and tools I work with:
 
-<style>
+<code><style>
     .images-layout {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(10px, 40px));
@@ -29,7 +29,7 @@
     <img class="image-class" src="https://www.postgresql.org/media/img/about/press/elephant.png">
     <img class="image-class" src="https://img.icons8.com/?size=48&id=20909&format=png">
     <img class="image-class" src="https://img.icons8.com/?size=48&id=21278&format=png">
-</div>
+</div></code>
 
 <br />
 
