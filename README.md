@@ -4,16 +4,32 @@
 
 ### Hi, I'm Jahongir Hakimjonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-
 ### Languages and tools I work with:
 
-<code><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30px"></code>
-<code><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="30px"></code>
-<code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px"></code>
-<code><img src="https://img.icons8.com/?size=48&id=20909&format=png" width="40px"></code>
-<code><img src="https://img.icons8.com/?size=48&id=21278&format=png" width="40px"></code>
+<style>
+    .images-layout {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(10px, 40px));
+        grid-gap: 5px;
+    }
 
+    .image-class {
+        display: block;
+        max-width: 100%;
+        width: 35px;
+        height: 30px;
+        object-fit: contain;
+        mix-blend-mode: lighten;
+    }
+</style>
 
+<div class="images-layout">
+    <img class="image-class" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
+    <img class="image-class" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
+    <img class="image-class" src="https://www.postgresql.org/media/img/about/press/elephant.png">
+    <img class="image-class" src="https://img.icons8.com/?size=48&id=20909&format=png">
+    <img class="image-class" src="https://img.icons8.com/?size=48&id=21278&format=png">
+</div>
 
 <br />
 
