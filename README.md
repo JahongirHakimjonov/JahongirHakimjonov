@@ -5,7 +5,7 @@
 
 ### Hi, I'm Jahongir Hakimjonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-[![Telegram](https://image.jimcdn.com/app/cms/image/transf/none/path/s9caa0db721168afe/image/i8145cfa0847f2cc3/version/1613179009/image.png)](https://t.me/ja_khan_gir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ja_khan_gir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ja_khan_gir)
+[![Telegram](https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png)](https://t.me/ja_khan_gir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ja_khan_gir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ja_khan_gir)
 
 
 ### Languages and tools I work with:
