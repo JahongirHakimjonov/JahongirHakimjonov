@@ -15,7 +15,7 @@
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="30px" style="mix-blend-mode: lighten"></code>
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px" style="mix-blend-mode: lighten"></code>
 <code><img src="https://img.icons8.com/?size=48&id=20909&format=png" width="40px" style="mix-blend-mode: lighten"></code>
-<code><img src="https://img.icons8.com/?size=48&id=21278&format=png" width="42px" style="mix-blend-mode: lighten"></code>
+<code><img src="https://img.icons8.com/?size=48&id=21278&format=png" width="43px" style="mix-blend-mode: lighten"></code>
 
 
 
