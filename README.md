@@ -23,4 +23,4 @@
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@ja_khan_gir](https://instagram.com/ja_khan_gir)
+- 📨&nbsp; How to reach me: [@ja_khan_gir](https://t.me/ja_khan_gir)
