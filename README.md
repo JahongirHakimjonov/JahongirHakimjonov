@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JahongirHakimjonov&base=1000&label=Profile%20views&color=blueviolet&style=plastic" alt="JahongirHakimjonov" /> </p>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&base=200&label=Profile%20Views&color=6&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&base=1000&label=Profile%20Views&color=6&icon=5&pretty=false" />
 </a>
 
 
