@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JahongirHakimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="JahongirHakimjonov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JahongirHakimjonov&label=Profile%20views&color=blueviolet&style=plastic" alt="JahongirHakimjonov" /> </p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" />
 </a>
