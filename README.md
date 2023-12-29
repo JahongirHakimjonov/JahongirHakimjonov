@@ -27,6 +27,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40px">
 </div>
 
+<br />
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
