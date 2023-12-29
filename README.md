@@ -2,6 +2,8 @@
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&base=1000&label=Profile%20Views&color=6&icon=5&pretty=false" />
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JahongirHakimjonov&base=1000&label=Profile%20views&color=blueviolet&style=plastic" alt="JahongirHakimjonov" /> </p>
+
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
