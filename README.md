@@ -8,17 +8,17 @@
 
 ## Languages and Tools I Work With:
 
-- Python ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
-- Django ![Django](https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png)
-- JavaScript ![JavaScript](https://cdn.hashnode.com/res/hashnode/image/upload/v1518503935975/S1_-_WePM.png)
-- PostgreSQL ![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)
-- Docker ![Docker](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png)
-- Ubuntu ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png)
-- Nginx ![Nginx](https://www.svgrepo.com/show/373924/nginx.svg)
-- HTML ![HTML](https://img.icons8.com/?size=48&id=20909&format=png)
-- CSS ![CSS](https://img.icons8.com/?size=48&id=21278&format=png)
-- Bootstrap ![Bootstrap](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png)
-- FastAPI ![FastAPI](https://cdn.worldvectorlogo.com/logos/fastapi.svg)
+- Python <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30px">
+- Django <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" width="30px">
+- JavaScript <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1518503935975/S1_-_WePM.png" width="50px">
+- PostgreSQL <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px">
+- Docker <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="40px">
+- Ubuntu <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png" width="40px">
+- Nginx <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="44px">
+- HTML <img src="https://img.icons8.com/?size=48&id=20909&format=png" width="40px">
+- CSS <img src="https://img.icons8.com/?size=48&id=21278&format=png" width="43px">
+- Bootstrap <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" width="47px">
+- FastAPI <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40px">
 
 ## About Me:
 
