@@ -32,3 +32,7 @@
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
 - 📨&nbsp; How to reach me: [@ja_khan_gir](https://t.me/ja_khan_gir)
+
+
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6592fa8cae22c12523071104?variant=dark" alt="roadmap.sh"/></a>
