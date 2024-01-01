@@ -4,7 +4,7 @@
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-### Hi, I'm Jahongir Hakimjonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%">
+### Hi, I'm Jahongir Hakimjonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ja_khan_gir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ja_khan_gir)
 
