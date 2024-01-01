@@ -35,4 +35,4 @@
 
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6592fa8cae22c12523071104?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6592fa8cae22c12523071104?variant=dark" alt="roadmap.sh"/></a>
