@@ -1,8 +1,6 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" alt=""/>
 </a>
-<br>
-<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47lvldxdkhb04ide37qzcsa3gx8z9o1z0mhbvwtujz&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
@@ -37,9 +35,16 @@
 
 <br />
 
-- 📍 &nbsp; Current location: Uzbekistan Anywhere
-- 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@ja_khan_gir](https://t.me/ja_khan_gir)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="flex: 1;">
+        <p> - 📍 &nbsp; Current location: Uzbekistan Anywhere</p>
+        <p>- 📝&nbsp; Ask me about anything, I am happy to help</p>
+        <p>- 📨&nbsp; How to reach me: <a href="https://t.me/ja_khan_gir" target="_blank">@ja_khan_gir</a></p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47lvldxdkhb04ide37qzcsa3gx8z9o1z0mhbvwtujz&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" />
+    </div>
+</div>
 
 ### Badges
 
