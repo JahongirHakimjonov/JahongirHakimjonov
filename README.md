@@ -1,6 +1,8 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" alt=""/>
 </a>
+<br>
+<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47lvldxdkhb04ide37qzcsa3gx8z9o1z0mhbvwtujz&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
@@ -29,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
   <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="36" height="36" alt="Postman">
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="NGINX">
-  
+
 </p>
 
 
@@ -46,6 +48,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JahongirHakimjonov&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/JahongirHakimjonov)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahongirHakimjonov&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/JahongirHakimjonov)
-
-
-hello
