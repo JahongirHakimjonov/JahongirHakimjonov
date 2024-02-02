@@ -47,8 +47,6 @@
 </div>
 
 
-<iframe src="https://github.com/sponsors/JahongirHakimjonov/card" title="Sponsor JahongirHakimjonov" height="225" width="600" style="border: 0;"></iframe>
-
 
 ### Badges
 
