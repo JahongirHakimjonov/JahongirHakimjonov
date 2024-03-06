@@ -13,7 +13,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-  <img src="\https://media.licdn.com/dms/image/D4D12AQEAO8b3YbB2bw/article-cover_image-shrink_600_2000/0/1670420866062?e=2147483647&v=beta&t=zubK5_6jSz9gB4nwsCU6O9Kg9oQSY-1ImCsCLMhMyU8" width="36" height="36" alt="Rest API" />
+  <img src="https://apps.odoo.com/apps/icon_image?module_id=37657" width="36" height="36" alt="Rest API" />
 <!--   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /> -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
