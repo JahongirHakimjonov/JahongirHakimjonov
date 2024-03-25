@@ -4,8 +4,7 @@
 <br>
 <br>
 <a href="https://jahongirhakimjonov.github.io/portfolio/">
-    <img src="https://cdn-icons-png.flaticon.com/512/5482/5482678.png" width="50" height="50">
-    My Portfolio Web-Site
+    <img src="portfolio.png" width="50" height="50">
 </a>
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
