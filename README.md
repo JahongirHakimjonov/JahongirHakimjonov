@@ -4,7 +4,7 @@
 <br>
 <br>
 <a href="https://jahongirhakimjonov.github.io/portfolio/">
-    <img src="https://www.windzorpharma.com/wp-content/uploads/2022/07/web-link-icon-png-19.png" width="50" height="50">
+    <img src="https://cdn-icons-png.flaticon.com/512/5482/5482678.png" width="50" height="50">
     My Portfolio Web-Site
 </a>
 
