@@ -1,6 +1,8 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" alt=""/>
 </a>
+<br>
+<br>
 <a href="https://jahongirhakimjonov.github.io/portfolio/">
     <img src="portfolio.png" width="150">
 </a>
