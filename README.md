@@ -4,7 +4,7 @@
 <br>
 <br>
 <a href="https://jahongirhakimjonov.github.io/portfolio/">
-    <img src="portfolio.png" weight="50">
+    <img src="portfolio.png" width="50">
 </a>
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
