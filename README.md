@@ -2,7 +2,7 @@
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" alt=""/>
 </a>
 
-<a href="https://jahongirhakimjonov.github.io/portfolio/"><img src="https://www.windzorpharma.com/wp-content/uploads/2022/07/web-link-icon-png-19.png" width="50" height="50"></a>
+<a href="https://jahongirhakimjonov.github.io/portfolio/"><img src="https://www.windzorpharma.com/wp-content/uploads/2022/07/web-link-icon-png-19.png" width="50" height="50"></a>[My Portfolio Web-Site](https://jahongirhakimjonov.github.io/portfolio/)
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
