@@ -2,7 +2,7 @@
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" alt=""/>
 </a>
 
-[My Portfolio Web-Site](https://jahongirhakimjonov.github.io/portfolio/)
+[![My Portfolio Web-Site](https://banner2.cleanpng.com/20180320/rxe/kisspng-computer-icons-web-page-website-favicon-search-eng-symbol-website-icon-5ab1663dec0ca7.5407958515215754859669.jpg)](https://jahongirhakimjonov.github.io/portfolio/)]
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
