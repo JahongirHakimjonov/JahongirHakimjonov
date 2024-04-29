@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Jahongir%20Hakimjonov;MY+SPECIALIZATION+===+BACKEND+DEVELOPMENT;MY+EXPERIENCE+>+1+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JahongirHakimjonov&theme=react-dark&hide_border=true&area=true" />
+</div> 
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" alt=""/>
