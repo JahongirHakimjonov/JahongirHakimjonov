@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Jahongir%20Hakimjonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=JahongirHakimjonov&label=Profile%20Views&color=6&icon=5&pretty=false" alt=""/>
 </a>
