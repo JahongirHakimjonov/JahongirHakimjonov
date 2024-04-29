@@ -66,9 +66,6 @@
         <p>- 📝&nbsp; Ask me about anything, I am happy to help</p>
         <p>- 📨&nbsp; How to reach me: <a href="https://t.me/ja_khan_gir" target="_blank">@ja_khan_gir</a></p>
     </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47lvldxdkhb04ide37qzcsa3gx8z9o1z0mhbvwtujz&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" />
-    </div>
 </div>
 
 
