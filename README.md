@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Jahongir%20Hakimjonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+![image](https://github.com/user-attachments/assets/c67c2c28-dc5f-4eed-9046-fac0f81c1749)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Jahongir%20Hakimjonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Jahongir%20Hakimjonov;MY+SPECIALIZATION+===+BACKEND+DEVELOPMENT;MY+EXPERIENCE+>+1+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
 
@@ -43,6 +43,12 @@
   <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="36" height="36" alt="Insomnia">
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="NGINX">
   <img src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" width="36" height="36" alt="Aiogram">
+   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="36" height="36" alt="Redis">
+   <img src="https://i.postimg.cc/HxFL27ws/celery.png" width="36" height="36" alt="Celery">
+  <img src="https://miro.medium.com/v2/resize:fit:640/1*IZlO8VJUaR-WOEhugcnHAA.png" width="60" height="36" alt="RabbitMQ">
+  
+  
+  
 
 </p>
 
