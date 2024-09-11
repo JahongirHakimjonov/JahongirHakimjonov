@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c67c2c28-dc5f-4eed-9046-fac0f81c1749)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Jahongir%20Hakimjonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Jahongir%20Hakimjonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Jahongir%20Hakimjonov;MY+SPECIALIZATION+===+BACKEND+DEVELOPMENT;MY+EXPERIENCE+>+1+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
 
