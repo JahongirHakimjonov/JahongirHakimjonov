@@ -40,7 +40,7 @@
 <!--   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /> -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
   <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="36" height="36" alt="Postman">
-  <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="36" height="36" alt="Insomnia">
+  <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png" width="36" height="36" alt="Insomnia">
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="NGINX">
   <img src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" width="36" height="36" alt="Aiogram">
   <img src="https://www.gstatic.com/devrel-devsite/prod/vff8c7d35de8ade382e79c3b9a923182d876d284b6ae43035fbefc80d49042a6e/firebase/images/touchicon-180.png" width="36" height="36" alt="Firebase">
