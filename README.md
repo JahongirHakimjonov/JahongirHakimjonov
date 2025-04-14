@@ -42,22 +42,8 @@
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="36" height="36" alt="Redis">
   <img src="https://i.postimg.cc/HxFL27ws/celery.png" width="36" height="36" alt="Celery">
   <img src="https://miro.medium.com/v2/resize:fit:640/1*IZlO8VJUaR-WOEhugcnHAA.png" width="60" height="36" alt="RabbitMQ">
-  
-  
-  
-
 </p>
 
-
-<br />
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex: 1;">
-        <p> - 📍 &nbsp; Current location: Uzbekistan Anywhere</p>
-        <p>- 📝&nbsp; Ask me about anything, I am happy to help</p>
-        <p>- 📨&nbsp; How to reach me: <a href="https://t.me/ja_khan_gir" target="_blank">@ja_khan_gir</a></p>
-    </div>
-</div>
 
 
 <div align="center">
