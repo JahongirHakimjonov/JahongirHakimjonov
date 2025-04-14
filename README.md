@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Jahongir%20Hakimjonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Jahongir%20Hakimjonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Jahongir%20Hakimjonov;MY+SPECIALIZATION+===+SOFTWARE+ENGINEERING;MY+EXPERIENCE+>+1+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Jahongir%20Hakimjonov;MY+SPECIALIZATION+===+SOFTWARE+ENGINEERING;MY+EXPERIENCE+>+1+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JahongirHakimjonov&theme=react-dark&hide_border=true&area=true" />
@@ -8,12 +8,12 @@
 
 <!--  ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=JahongirHakimjonov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="JahongirHakimjonov github stats" /> 
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahongirHakimjonov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=JahongirHakimjonov&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="JahongirHakimjonov github stats" /> 
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahongirHakimjonov&layout=compact&hide_border=true&title_color=ffff&text_color=fff&bg_color=0d1117" />
 </div>
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=JahongirHakimjonov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="JahongirHakimjonov" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=JahongirHakimjonov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=fff&fire=fff&currStreakLabel=fff" alt="JahongirHakimjonov" /></div>
 
 
 
@@ -71,4 +71,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JahongirHakimjonov}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
