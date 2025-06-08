@@ -36,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 <!--   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /> -->
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="NGINX">
-  <img src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" width="36" height="36" alt="Aiogram">
   <img src="https://www.gstatic.com/devrel-devsite/prod/vff8c7d35de8ade382e79c3b9a923182d876d284b6ae43035fbefc80d49042a6e/firebase/images/touchicon-180.png" width="36" height="36" alt="Firebase">
    <img src="https://eodhd.com/financial-apis/wp-content/uploads/2021/10/Real-Time-Data-API-WebSockets.png" width="36" height="36" alt="Websocket">
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="36" height="36" alt="Redis">
