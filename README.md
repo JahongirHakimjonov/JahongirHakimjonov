@@ -2,7 +2,7 @@
     <a href="https://dev.jakhangir.uz">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Reworked.png">
-        <img alt="Welcome Image" src="./assets-light/Reworked.webp">
+        <img alt="Welcome Image" src="./assets-light/Reworked.png">
       </picture>
     </a>
 </p>
@@ -12,7 +12,7 @@
     <a href="https://dev.jakhangir.uz">website</a> .
     <a href="https://dev.jakhangir.uz/about">now</a> .
     <a href="https://github.com/topics/milliytech">projects</a> .
-    <a href="https://dev.jakhangir.uz/projects">work</a> .2
+    <a href="https://dev.jakhangir.uz/portfolio">work</a> .
     <a href="https://github.com/milliytech">initiative</a>
   </samp>
 </p>
@@ -21,14 +21,14 @@
   <a href="https://open.spotify.com/user/31h5goeueykwzystyckqosrcnduy?si=2f160f6db3804b09">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Trophy-1.png">
-      <img alt="Ex 'X' who used to be #1 in Uzbekistan" width=48% src="./assets-light/Trophy-1.webp">
+      <img alt="Ex 'X' who used to be #1 in Uzbekistan" width=48% src="./assets-light/Trophy-1.png">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://dev.jakhangir.uz">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Trophy-2.png">
-      <img alt="15 years of experience" width=48%  src="./assets-light/Trophy-2.webp">
+      <img alt="15 years of experience" width=48%  src="./assets-light/Trophy-2.png">
     </picture>
   </a>
 </p>
@@ -37,14 +37,14 @@
   <a href="https://milliytech.uz">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Trophy-3.png">
-      <img alt="Crazy nerd in love with music" width=48%  src="./assets-light/Trophy-3.webp">
+      <img alt="Crazy nerd in love with music" width=48%  src="./assets-light/Trophy-3.png">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/jakhangir_blog">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Trophy-4.png">
-      <img alt="Weeb who loves anime to death" width=48% src="./assets-light/Trophy-4.webp">
+      <img alt="Weeb who loves anime to death" width=48% src="./assets-light/Trophy-4.png">
     </picture>
   </a>
 </p>
