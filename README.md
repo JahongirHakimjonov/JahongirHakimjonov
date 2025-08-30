@@ -10,15 +10,15 @@
 <p align="center">
   <samp>
     <a href="https://dev.jakhangir.uz">website</a> .
-    <a href="https://dev.jakhangir.uz">now</a> .
-    <a href="https://dev.jakhangir.uz">projects</a> .
-    <a href="https://dev.jakhangir.uz">work</a> .
-    <a href="https://dev.jakhangir.uz">initiative</a>
+    <a href="https://dev.jakhangir.uz/about">now</a> .
+    <a href="https://github.com/topics/milliytech">projects</a> .
+    <a href="https://dev.jakhangir.uz/projects">work</a> .2
+    <a href="https://github.com/milliytech">initiative</a>
   </samp>
 </p>
 
 <p align="center">
-  <a href="https://dev.jakhangir.uz">
+  <a href="https://open.spotify.com/user/31h5goeueykwzystyckqosrcnduy?si=2f160f6db3804b09">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Trophy-1.png">
       <img alt="Ex 'X' who used to be #1 in Uzbekistan" width=48% src="./assets-light/Trophy-1.webp">
@@ -34,14 +34,14 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.jakhangir.uz">
+  <a href="https://milliytech.uz">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Trophy-3.png">
       <img alt="Crazy nerd in love with music" width=48%  src="./assets-light/Trophy-3.webp">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://dev.jakhangir.uz">
+  <a href="https://t.me/jakhangir_blog">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets-dark/Trophy-4.png">
       <img alt="Weeb who loves anime to death" width=48% src="./assets-light/Trophy-4.webp">
